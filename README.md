@@ -9,7 +9,7 @@ After all, the content is at the service of Airbyte's community of contributors 
 
 ## Contributing
 We love all contributions to our tutorials. Here are the different types of contributions you can help with. 
-* [Request a tutorial](https://github.com/airbytehq/community-content/issues/new?assignees=&labels=&template=submit-a-topic---tutorial-idea.md&title=)
+* [Request a tutorial](https://github.com/airbytehq/community-content/issues/new?assignees=&labels=&template=request-a-tutorial.md&title=)
 * [Submit a tutorial](https://github.com/airbytehq/community-content/issues/new?assignees=&labels=&template=submit-a-tutorial-article.md&title=)
 * [Update a tutorial](https://github.com/airbytehq/community-content/issues/new?assignees=&labels=&template=update-a-tutorial.md&title=)
 * [Translate a tutorial](https://github.com/airbytehq/community-content/issues/new?assignees=&labels=translation&template=translate-a-tutorial-article.md&title=)
