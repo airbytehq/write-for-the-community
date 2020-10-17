@@ -26,3 +26,4 @@ However, please note that we're NOT looking for promotional pieces or marketing 
 ## Currently In Review
 
 * [The State of Open-Source Data Integration and ETL](https://docs.google.com/document/d/1TqyJrklXTT62rcZs-oWeeO9D5o5TzucdbLZRke0AISs/edit?usp=sharing)
+* [FAQ](https://docs.google.com/document/d/1c6rSSrFbpm8btjN70iiL_-2rMzWZDkepvRJ6SO3gHio/edit?usp=sharing)
