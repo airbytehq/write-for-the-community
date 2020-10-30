@@ -22,3 +22,7 @@ You can write about:
 The entire team at Airbyte is very curious what you can building using Airbyte. And it may be the same for our community! Don't hesitate to go in depth, any learning nugget is valuable to us all. 
 
 However, please note that we're NOT looking for promotional pieces or marketing pitches. This is all about interesting things to tell to the community around Airbyte. 
+
+## Currently In Review
+
+* [Why the Future of ETL is Not ELT, But EL](https://docs.google.com/document/d/1kHbe7qr6pRp32To8nHoo8UMASrGYOcFyni9olCIW4iM/edit?usp=sharing)
