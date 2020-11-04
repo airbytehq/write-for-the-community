@@ -1,4 +1,4 @@
-[![](https://airbyte.io/wp-content/uploads/2020/09/Community-Content_Airbyte.png)](https://airbyte.io/community/#articles)
+[![](https://airbyte.io/wp-content/uploads/2020/11/Community-Content_Airbyte-2.png)](https://airbyte.io/community/#articles)
 
 ## Our Philosophy
 Airbyte is fully open by design. We share our [roadmap](https://github.com/airbytehq/airbyte/projects/1), [strategy](https://docs.airbyte.io/company-handbook/company-handbook/strategy) and everything about our [business model](https://docs.airbyte.io/company-handbook/company-handbook/business-model). 
