@@ -1,5 +1,5 @@
 ---
-name: Translate a tutorial/article
+name: Translate a publication
 about: 'Translate an existing resource. '
 title: ''
 labels: translation
