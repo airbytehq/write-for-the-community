@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-**Main Updates Requested:**
+**Main Updates Requested**
 
 Describe what about the tutorial should be changed.
 
