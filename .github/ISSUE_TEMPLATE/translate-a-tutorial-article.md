@@ -7,10 +7,8 @@ assignees: ''
 
 ---
 
-**The tutorial I want to translate**
-Which resource you want to translate
+**Translation Details**
 
-**Community vote**
-👍 Upvote if you need it too
-❤️ I love it!
-🚀 I can help you!
+Link to the resource you want to translate:
+
+Language you want to translate to:

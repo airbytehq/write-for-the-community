@@ -7,7 +7,12 @@ assignees: ''
 
 ---
 
-**My Request**
+**Request Details**
 
-What tutorial/article would you like to see?
+What type tutorial/article would you like to see?
+
+Examples:
+- Tutorials on Airbyte concepts
+- Use-cases for specific source/destination combinations
+- Videos on Airbyte features or concepts
 

@@ -2,19 +2,17 @@
 name: Submit a tutorial/article
 about: 'Create a new Airbyte related tutorial/article. '
 title: ''
-labels: ''
+labels: needs-triage
 assignees: ''
 
 ---
 
-**My resource**
-Describe what your resource will be about. (tutorial or article)
+**Submission Details**
 
-**My format**
+Describe what your tutorial or article will be about. Then assign the appropriate label to this issue.
 
-- [ ] Article
+**The Format**
+
+- [ ] Blog Article
+- [ ] Tutorial
 - [ ] Video
-
-**Community vote on the tutorial submitted**
-❤️ I love it!
-🚀 I can help you!

@@ -3,12 +3,11 @@
 ## Our Philosophy
 Airbyte is fully open by design. We share our [roadmap](https://github.com/airbytehq/airbyte/projects/1), [strategy](https://docs.airbyte.io/company-handbook/company-handbook/strategy) and everything about our [business model](https://docs.airbyte.io/company-handbook/company-handbook/business-model). 
 
-This repository is also a way to share about our [roadmap](https://github.com/airbytehq/community-content/projects/1) in terms of content publications, so you can vote on the articles, tutorials and videos we plan to work on, but also to participate in them. 
-
-After all, the content is at the service of Airbyte's community of contributors and users, and who better knows what tutorials they need: our community!
+This repository is also a way to share about our [roadmap](https://github.com/airbytehq/community-content/projects/1) in terms of content publications, so you can vote on the articles, tutorials and videos we plan to work on, and also contribute them!
 
 ## Contributing
-We love all contributions to our tutorials. Here are the different types of contributions you can help with. 
+If you want to help push our content roadmap forward, here are the different types of contributions you can help with. 
+
 * [Request a tutorial](https://github.com/airbytehq/community-content/issues/new?assignees=&labels=&template=request-a-tutorial.md&title=)
 * [Submit a tutorial](https://github.com/airbytehq/community-content/issues/new?assignees=&labels=&template=submit-a-tutorial-article.md&title=)
 * [Update a tutorial](https://github.com/airbytehq/community-content/issues/new?assignees=&labels=&template=update-a-tutorial.md&title=)
