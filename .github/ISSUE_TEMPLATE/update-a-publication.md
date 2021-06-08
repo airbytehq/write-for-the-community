@@ -1,5 +1,5 @@
 ---
-name: Update a tutorial
+name: Update a publication
 about: 'Update an existing tutorial. '
 title: ''
 labels: update-requested
