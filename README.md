@@ -8,10 +8,10 @@ This repository is also a way to share about our [roadmap](https://github.com/ai
 ## Contributing
 If you want to help push our content roadmap forward, here are the different types of contributions you can help with. 
 
-* [Request a tutorial](https://github.com/airbytehq/community-content/issues/new?assignees=&labels=&template=request-a-tutorial.md&title=)
-* [Submit a tutorial](https://github.com/airbytehq/community-content/issues/new?assignees=&labels=&template=submit-a-tutorial-article.md&title=)
-* [Update a tutorial](https://github.com/airbytehq/community-content/issues/new?assignees=&labels=&template=update-a-tutorial.md&title=)
-* [Translate a tutorial](https://github.com/airbytehq/community-content/issues/new?assignees=&labels=translation&template=translate-a-tutorial-article.md&title=)
+* [Request a publication](https://github.com/airbytehq/community-content/issues/new?assignees=&labels=&template=request-a-tutorial.md&title=)
+* [Submit a publication](https://github.com/airbytehq/community-content/issues/new?assignees=&labels=&template=submit-a-tutorial-article.md&title=)
+* [Update a publication](https://github.com/airbytehq/community-content/issues/new?assignees=&labels=&template=update-a-tutorial.md&title=)
+* [Translate a publication](https://github.com/airbytehq/community-content/issues/new?assignees=&labels=translation&template=translate-a-tutorial-article.md&title=)
 
 You can write about:
 * **articles** about your experience with Airbyte.

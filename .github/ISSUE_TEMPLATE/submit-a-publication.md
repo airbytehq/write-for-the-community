@@ -1,5 +1,5 @@
 ---
-name: Submit a tutorial/article
+name: Submit a publication
 about: 'Create a new Airbyte related tutorial/article. '
 title: ''
 labels: needs-triage

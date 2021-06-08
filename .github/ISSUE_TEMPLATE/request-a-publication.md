@@ -1,5 +1,5 @@
 ---
-name: Request a tutorial
+name: Request a publication
 about: 'Submit a tutorial/article/topic idea.'
 title: ''
 labels: needs-triage
