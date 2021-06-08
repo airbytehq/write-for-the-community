@@ -2,15 +2,16 @@
 name: Update a tutorial
 about: 'Update an existing tutorial. '
 title: ''
-labels: ''
+labels: update-requested
 assignees: ''
 
 ---
 
-**My update**
-Describe your modifications
+**Main Updates Requested:**
 
-**Community vote on the update suggested**
-👍 Nice!
-❤️ I love it!
-🚀 I can help you!
+Describe what about the tutorial should be changed.
+
+Examples:
+- Incorrect information
+- Outdated workflows/information
+- Grammar or spelling errors
