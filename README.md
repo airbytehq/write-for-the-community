@@ -1,7 +1,7 @@
 ![](assets/github_header.png)
 
 ## Our Philosophy
-Airbyte is fully open by design. We share our [roadmap](https://github.com/airbytehq/airbyte/projects/1), [strategy](https://docs.airbyte.io/company-handbook/company-handbook/strategy) and everything about our [business model](https://docs.airbyte.io/company-handbook/company-handbook/business-model). 
+Airbyte is fully open by design. We share our [roadmap](https://docs.airbyte.io/project-overview/roadmap), [strategy](https://handbook.airbyte.io/strategy/strategy) and everything about our [business model](https://handbook.airbyte.io/strategy/business-model). 
 
 In this fashion, this repository is designed to share about our [roadmap](https://github.com/airbytehq/community-content/projects/1) in terms of content publications, so you can vote on the articles, tutorials and videos we plan to work on, and also contribute them!
 
