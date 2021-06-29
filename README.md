@@ -1,5 +1,8 @@
 ![](assets/github_header.png)
 
+## Guidelines
+Our full guidelines for publishing can be found [here](./GUIDELINES.md). Additionally, our FAQ which includes information on payment and the review process can be found [here](https://www.notion.so/Write-for-Airbyte-FAQ-de5c369a4973489cbad067205537038d).
+
 ## Our Philosophy
 Airbyte is fully open by design. We share our [roadmap](https://github.com/airbytehq/airbyte/projects/1), [strategy](https://docs.airbyte.io/company-handbook/company-handbook/strategy) and everything about our [business model](https://docs.airbyte.io/company-handbook/company-handbook/business-model). 
 
