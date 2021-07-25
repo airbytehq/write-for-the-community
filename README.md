@@ -9,7 +9,9 @@ Airbyte is fully open by design. We share our [roadmap](https://docs.airbyte.io/
 In this fashion, this repository is designed to share about our [roadmap](https://github.com/airbytehq/community-content/projects/1) in terms of content publications, so you can vote on the articles, tutorials and videos we plan to work on, and also contribute them!
 
 ## Contributing
-If you want to help push our content roadmap forward, here are the different types of contributions you can help with. 
+If you want to help push our content roadmap forward, the first thing to do is to join the channel #write-for-the-community in our [Slack](https://slack.airbyte.io). 
+
+Here are the different types of contributions you can help with. 
 
 * [Request a publication](https://github.com/airbytehq/community-content/issues/new?assignees=&labels=&template=request-a-publication.md&title=)
 * [Submit a publication](https://github.com/airbytehq/community-content/issues/new?assignees=&labels=&template=submit-a-publication.md&title=)
